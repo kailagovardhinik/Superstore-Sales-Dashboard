@@ -9,3 +9,6 @@ Sales Analysis of Superstore using Power BI Dashboard
 - Stacked area chart
 - Donut Chart
 - Pie Chart
+
+
+![image](https://github.com/kailagovardhinik/Superstore-Sales-Dashboard-using-PowerBI/assets/141433548/17ae7df7-a824-46f3-a041-b8df41a4ff77)
